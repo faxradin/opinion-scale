@@ -1,0 +1,6 @@
+{
+  "name": "ترازوی افکار",
+  "description": "فهرست تعاملی و رتبه‌بندی عمومی چهره‌های شناخته‌شده بر پایه رأی کاربران، همراه با دریافت اطلاعات از ویکی‌پدیا، نشان‌گذاری، مقایسه و پنل مدیریت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
